@@ -1,16 +1,17 @@
-# journal
+# Mental Health Journal App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+The Mental Health Journal App is a mobile application developed with Flutter, Dart, and Firebase to provide users with a convenient way to document and track their mental health journey. The app allows users to create, save, and manage journal entries, which are securely stored in Firebase.
+It acknowledges the need for a safe and private space where users can document their thoughts, emotions, and experiences. 
 
-This project is a starting point for a Flutter application.
+This app was developed as part of a project for HACK-A-WEEK 2.0
 
-A few resources to get you started if this is your first Flutter project:
+## Team
+The app was developed by the team "We Tried". The team members are:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Abhaya Das B
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Anjana A P
+
+Aparna S S
